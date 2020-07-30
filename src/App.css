@@ -68,8 +68,288 @@
 
 
 .audios {
+
+}
+
+#audio1 {
   position: absolute;
-  top: 90%;
+  top: 05%;
   left: 10%;
   z-index: 1;
+}
+
+#audio21 {
+  position: absolute;
+  top: 55%;
+  left: 79%;
+  z-index: 1;
+}
+#audio22 {
+  position: absolute;
+  top: 65%;
+  left: 77%;
+  z-index: 1;
+}
+#audio23 {
+  position: absolute;
+  top: 73%;
+  left: 83%;
+  z-index: 1;
+}
+
+#audio31 {
+  position: absolute;
+  top: 173%;
+  left: 33%;
+  z-index: 1;
+}
+#audio32 {
+  position: absolute;
+  top: 182%;
+  left: 13%;
+  z-index: 1;
+}
+#audio33 {
+  position: absolute;
+  top: 191%;
+  left: 23%;
+  z-index: 1;
+}
+
+#audio40 {
+  position: absolute;
+  top: 291%;
+  left: 43%;
+  z-index: 1;
+}
+
+#audio50 {
+  position: absolute;
+  top: 391%;
+  left: 73%;
+  z-index: 1;
+}
+
+#audio60 {
+  position: absolute;
+  top: 451%;
+  left: 41%;
+  z-index: 1;
+}
+
+#audio70 {
+  position: absolute;
+  top: 541%;
+  left: 68%;
+  z-index: 1;
+}
+
+#audio80 {
+  position: absolute;
+  top: 582%;
+  left: 24%;
+  z-index: 1;
+}
+
+#audio90 {
+  position: absolute;
+  top: 635%;
+  left: 50%;
+  z-index: 1;
+}
+
+#audio100 {
+  position: absolute;
+  top: 710%;
+  left: 14%;
+  z-index: 1;
+}
+
+#audio110 {
+  position: absolute;
+  top: 782%;
+  left: 75%;
+  z-index: 1;
+}
+
+#audio120 {
+  position: absolute;
+  top: 842%;
+  left: 95%;
+  z-index: 1;
+}
+
+#audio130 {
+  position: absolute;
+  top: 882%;
+  left: 48%;
+  z-index: 1;
+}
+
+#audio140 {
+  position: absolute;
+  top: 992%;
+  left: 56%;
+  z-index: 1;
+}
+
+#audio150 {
+  position: absolute;
+  top: 1092%;
+  left: 56%;
+  z-index: 1;
+}
+
+#audio160 {
+  position: absolute;
+  top: 1172%;
+  left: 56%;
+  z-index: 1;
+}
+
+#audio161 {
+  position: absolute;
+  top: 1181%;
+  left: 61%;
+  z-index: 1;
+}
+
+#audio170 {
+  position: absolute;
+  top: 1221%;
+  left: 24%;
+  z-index: 1;
+}
+
+#audio180 {
+  position: absolute;
+  top: 1295%;
+  left: 76%;
+  z-index: 1;
+}
+
+#audio190 {
+  position: absolute;
+  top: 1331%;
+  left: 61%;
+  z-index: 1;
+}
+#audio191 {
+  position: absolute;
+  top: 1341%;
+  left: 66%;
+  z-index: 1;
+}
+#audio192 {
+  position: absolute;
+  top: 1351%;
+  left: 71%;
+  z-index: 1;
+}
+#audio193 {
+  position: absolute;
+  top: 1363%;
+  left: 58%;
+  z-index: 1;
+}
+#audio194 {
+  position: absolute;
+  top: 1370%;
+  left: 61%;
+  z-index: 1;
+}
+#audio195 {
+  position: absolute;
+  top: 1381%;
+  left: 67%;
+  z-index: 1;
+}
+#audio196 {
+  position: absolute;
+  top: 1392%;
+  left: 61%;
+  z-index: 1;
+}
+#audio197 {
+  position: absolute;
+  top: 1400%;
+  left: 61%;
+  z-index: 1;
+}
+
+#audio200 {
+  position: absolute;
+  top: 1590%;
+  left: 85%;
+  z-index: 1;
+}
+#audio201 {
+  position: absolute;
+  top: 1600%;
+  left: 85%;
+  z-index: 1;
+}
+#audio202 {
+  position: absolute;
+  top: 1608%;
+  left: 83%;
+  z-index: 1;
+}
+
+#audio210 {
+  position: absolute;
+  top: 1778%;
+  left: 46%;
+  z-index: 1;
+}
+#audio211 {
+  position: absolute;
+  top: 1787%;
+  left: 34%;
+  z-index: 1;
+}
+#audio212 {
+  position: absolute;
+  top: 1798%;
+  left: 35%;
+  z-index: 1;
+}
+#audio213 {
+  position: absolute;
+  top: 1808%;
+  left: 65%;
+  z-index: 1;
+}
+#audio214 {
+  position: absolute;
+  top: 1816%;
+  left: 59%;
+  z-index: 1;
+}
+
+#audio220 {
+  position: absolute;
+  top: 1986%;
+  left: 87%;
+  z-index: 1;
+}
+
+
+
+
+
+#video1 {
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 196%;
+  left: 37%;
+}
+
+#video2 {
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 106%;
+  left: 37%;
 }
