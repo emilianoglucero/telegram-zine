@@ -16,6 +16,14 @@
   width: 33%;
 }
 
+#loading {
+  left: 50%;
+  margin-top: -125px;
+  margin-left: -125px;
+  position: absolute;
+  top: 50%;
+}
+
 /*
 * general ends
 */

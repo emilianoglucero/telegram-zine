@@ -472,11 +472,11 @@
     }
     #screenshot45 {
     left: 55%;
-    top: 2190%;
+    top: 2150%;
     }
     #screenshot46 {
     left: 40%;
-    top: 2290%;
+    top: 2200%;
     }
   
   
@@ -528,3 +528,204 @@
 }
   
   /* mobile generic ends */
+
+  /* ----------- for Galaxy and thin mobiles ----------- */
+
+/* Portrait and Landscape */
+@media screen 
+and (max-width: 360px) 
+ {
+
+  #screenshot1 {
+    left: 90%;
+    top: 10%;
+}
+  
+#screenshot2 {
+left: 95%;
+top: 60%;
+}
+#screenshot3 {
+left: 70%;
+top: 130%;
+}
+#screenshot4 {
+left: 90%;
+top: 150%;
+}
+
+#screenshot5 {
+left: 94%;
+top: 180%;
+}
+
+#screenshot6 {
+left: 50%;
+top: 210%;
+}
+
+#screenshot7 {
+left: 94%;
+top: 230%;
+}
+
+#screenshot8 {
+left: 82%;
+top: 260%;
+}
+
+#screenshot9 {
+left: 90%;
+top: 300%;
+}
+
+#screenshot10 {
+left: 70%;
+top: 310%;
+}
+#screenshot11 {
+left: 90%;
+top: 360%;
+}
+#screenshot12 {
+left: 94%;
+top: 410%;
+}
+#screenshot13 {
+left: 69%;
+top: 470%;
+}
+#screenshot14 {
+left: 90%;
+top: 490%;
+}
+#screenshot15 {
+left: 42%;
+top: 500%;
+}
+#screenshot16 {
+left: 80%;
+top: 520%;
+}
+#screenshot17 {
+left: 50%;
+top: 620%;
+}
+#screenshot18 {
+left: 90%;
+top: 650%;
+}
+#screenshot19 {
+left: 10%;
+top: 710%;
+}
+#screenshot20 {
+left: 82%;
+top: 840%;
+}
+#screenshot21 {
+left: 99%;
+top: 860%;
+}
+#screenshot22 {
+left: 85%;
+top: 900%;
+}
+#screenshot23 {
+left: 90%;
+top: 950%;
+}
+#screenshot24 {
+left: 94%;
+top: 990%;
+}
+#screenshot25 {
+left: 37%;
+top: 1040%;
+}
+#screenshot26 {
+left: 94%;
+top: 1080%;
+}
+#screenshot27 {
+left: 90%;
+top: 1100%;
+}
+#screenshot28 {
+left: 92%;
+top: 1140%;
+}
+#screenshot29 {
+left: 90%;
+top: 1170%;
+}
+#screenshot30 {
+left: 85%;
+top: 1200%;
+}
+#screenshot31 {
+left: 30%;
+top: 1240%;
+}
+#screenshot32 {
+left: 90%;
+top: 1270%;
+}
+#screenshot33 {
+left: 87%;
+top: 1420%;
+}
+#screenshot34 {
+left: 90%;
+top: 1470%;
+}
+#screenshot35 {
+left: 29%;
+top: 1510%;
+}
+#screenshot36 {
+left: 90%;
+top: 1520%;
+}
+#screenshot37 {
+left: 70%;
+top: 1580%;
+}
+#screenshot38 {
+left: 94%;
+top: 1670%;
+}
+#screenshot39 {
+left: 45%;
+top: 1710%;
+}
+#screenshot40 {
+left: 81%;
+top: 1870%;
+}
+#screenshot41 {
+left: 90%;
+top: 1920%;
+}
+#screenshot42 {
+left: 50%;
+top: 1990%;
+}
+#screenshot43 {
+left: 70%;
+top: 1070%;
+}
+#screenshot44 {
+left: 90%;
+top: 1120%;
+}
+#screenshot45 {
+left: 55%;
+top: 1190%;
+}
+#screenshot46 {
+left: 40%;
+top: 1290%;
+}
+
+}
