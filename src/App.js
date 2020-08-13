@@ -3,11 +3,6 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 import './App-mobile.css';
 
-import './components/Audio.css';
-import './components/Video.css';
-import './components/Screenshot.css';
-import './components/Background.css';
-
 import ScreenshotBuilder from './components/Screenshot'
 import BackgroundBuilder from './components/Background'
 import VideoBuilder from './components/Video'
@@ -57,6 +52,13 @@ function draggeableItem() {
 
 //end of the draggeables images
 
+var f = '💊🤑🤑👀🤑💨💨🤑🤑🇯🇲🤑👀🤑💉😊😊😚🇯🇲💊💨💉😊🇯🇲💊🇯🇲💊🤑🤑👀🤑💨💨🤑🤑🇯🇲🤑👀🤑💉💨🤑🤑🇯🇲🤑👀🤑💉';
+
+    function urlemoji() {
+        window.location.hash = f;
+    }
+
+    
 
 const Loading = () => {
   return(
@@ -74,6 +76,7 @@ class MyPage extends React.Component {
 
   //necesito ejecutar la funcion para draggear dsp de que todo se haya cargado en el dom
   componentDidMount() {
+    urlemoji();
     draggeableItem();
   }
 
