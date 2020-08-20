@@ -10,7 +10,7 @@ import bg7 from '../assets/img/bg/bg7.png'
 import bg8 from '../assets/img/bg/bg8.png'
 import bg9 from '../assets/img/bg/bg9.png'
 import bg10 from '../assets/img/bg/bg10.png'
-import bg11 from '../assets/img/bg/bg11.gif'
+import bg11 from '../assets/img/bg/bg11.png'
 
 function Background(props) {
     return (   
